@@ -219,3 +219,12 @@ aws-dms-full-migration-lab/
 ## 📄 License
 
 This repository is licensed under the [MIT License](LICENSE).
+
+---
+
+## 👤 Author
+
+**Kunal Jadhav**
+* **GitHub:** [@devkunaljadhav](https://github.com/devkunaljadhav)
+* **Email:** [kunaljadhav1625@gmail.com](mailto:kunaljadhav1625@gmail.com)
+
